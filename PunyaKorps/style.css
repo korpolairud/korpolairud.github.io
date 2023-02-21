@@ -50,12 +50,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
 body {
-  font-family: "Lato", Arial, sans-serif;
+   font-family: "Lato", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.8;
   font-weight: normal;
-  background: linear-gradient(90deg, rgba(5,5,5,1) 25%, rgba(28,26,25,1) 50%, rgba(48,45,42,0.9668242296918768) 75%);
-  color: gray;  }
+  background: linear-gradient(90deg, rgba(38,38,38,1) 25%, rgba(46,46,46,1) 50%, rgba(62,62,62,0.9668242296918768) 75%);
+  color: gray;
+  }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -8153,7 +8154,7 @@ h1, h2, h3, h4, h5,
   background: #e3b04b !important; }
 
 .ftco-section {
-  padding: 7em 0; }
+  padding: 7em 0;  }
 
 .ftco-no-pt {
   padding-top: 0; }
